@@ -12,6 +12,14 @@ Ip that we want to attack after we called the programm.
 	style="float: left; margin-right: 10px;" />
 </p>
 
+If this method doesn't work for you then use this one.
+
+<p align="center">
+<img src="ip2.png"
+	width="200"
+	style="float: left; margin-right: 10px;" />
+</p>
+
 ### Output
 
 First lines is the machine ttl an you only need to compare it with the numeber that linux and windows have.
